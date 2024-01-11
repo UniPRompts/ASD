@@ -43,4 +43,4 @@ Buono studio!
 <a href="https://github.com/unipr-org/ASD/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=unipr-org/ASD" />
 </a>
-Made with [contrib.rocks](https://contrib.rocks).
+
